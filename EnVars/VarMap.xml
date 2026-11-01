@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<varmap project="Big Plumbing WordPress Showcase Public">
+  <var name="--lime" use="Case study frame accent #d5ff3f; theme accent stays water"/>
+  <var name="pages-url" use="https://rawpowered.github.io/BigPlumbing-WordPress-Showcase-Public/"/>
+  <var name="private-showcase" use="RawPowered/BigPlumbing-WordPress-Showcase draft source"/>
+</varmap>

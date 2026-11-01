@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sysmap project="Big Plumbing WordPress Showcase Public">
+  <file path="index.html" role="Public case study"/>
+  <file path="assets/showcase.css" role="Case study layout, water accent"/>
+  <file path="assets/showcase-favicon.svg" role="BP mark"/>
+  <file path="docs/previews/desktop-fold.jpg" role="Homepage fold capture"/>
+  <file path="README.md" role="Public case study, Sunlectric-style presentation"/>
+  <file path="assets/readme/cover.jpg" role="README cover"/>
+  <file path="assets/readme/desktop-scroll.gif" role="README scroll preview"/>
+  <file path="docs/previews/" role="Lab captures for the README"/>
+  <file path="performance/2026-11-01/" role="Dated hosted Lighthouse score cards for the README"/>
+</sysmap>
