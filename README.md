@@ -169,11 +169,11 @@ The approach band starts full of water and drains as it enters the viewport. At 
 
 **Lab check, November 1, 2026:** Version 0.1.0 was measured on a hosted WordPress 7.1.4 test install. Lighthouse 12.8.2 scored Performance 100, Accessibility 96, Best Practices 100, and SEO 61 on both mobile (simulated Slow 4G) and desktop. Mobile LCP was 1.4 s; desktop LCP was 0.4 s. CLS and TBT were 0. SEO is held down by the lab `noindex` flag and a missing meta description. The lab URL remains internal. [Score cards](performance/2026-11-01/README.md).
 
-## Gumroad · launch in preparation
+## Get it on Gumroad
 
-- [Big Plumbing WordPress theme on Gumroad](https://spaceodin.gumroad.com/l/big-plumbing-wordpress-theme)
+[Buy Big Plumbing WordPress theme — $49](https://spaceodin.gumroad.com/l/big-plumbing-wordpress-theme)
 
-These product listings are being prepared and are not yet open for purchase. Gumroad may not display an unpublished listing publicly until launch. The project status and verification limits documented in this showcase still apply.
+Early-access v0.1.0 theme download with editable source and installation notes. Review the product page for requirements and current scope; the dated verification limits in this showcase still apply.
 
 ## Availability
 
